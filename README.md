@@ -1,3 +1,3 @@
 This repos simply creates a todo app depicting the use of react / redux / router / good practices.
-Todo-api is the nodejs cde base, to be connected with mongodb server.
-The src folder conatins the frontend react codebase.
+Todo-api is the nodejs code base, to be connected with mongodb server.
+The src folder contains the frontend react codebase.
