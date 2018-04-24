@@ -5,10 +5,17 @@ The src folder contains the frontend react codebase.
 -- Libraries used
 
 Axios
+
 Semantic-UI-React
+
 Redux
+
 Redux-Thunk
+
 Redux-logger
+
 React-Router
+
 React-Datepicker
+
 Moment
